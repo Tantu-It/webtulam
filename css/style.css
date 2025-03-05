@@ -1,0 +1,12 @@
+
+
+.body{
+    background-color: antiquewhite;
+    display: flex;
+}
+
+.header{
+    position: pixed;
+    z-index: 1000;
+    
+}
